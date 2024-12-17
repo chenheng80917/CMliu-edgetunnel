@@ -5,10 +5,10 @@ let userID = '';
 let proxyIP = '';
 let sub = '';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
-let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini";
+let subConfig = "https://raw.githubusercontent.com/chenheng80917/OpenClash/refs/heads/main/CF-NAT%20-%20NEW.ini";
 let subProtocol = 'https';
 let subEmoji = 'true';
-let socks5Address = '';
+let socks5Address = 'CMLiussss@socks5.serv00.090227.xyz:35555';
 let parsedSocks5Address = {}; 
 let enableSocks = false;
 
